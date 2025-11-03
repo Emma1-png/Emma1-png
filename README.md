@@ -9,7 +9,7 @@ If you are just wanting to chat and have a good time, I am willing to on discord
 
 My current programming skills are:
 `Python` https://python.org, `C#` https://dotnet.microsoft.com/en-us/languages/csharp, `Scratch` https://scratch.mit.edu
-It is unofficial, but I am learning & developing `E`, you can see the examples, along with the compiler (in private development) on the github repository: https://github.com/Emma1-png/BAM! Engine
+It is unofficial, but I am learning & developing `E`, you can see the examples, along with the compiler (in private development) on the github repository: [BAM! ENGINE](https://github.com/Emma1-png/BAM-Engine)
 
 
 
